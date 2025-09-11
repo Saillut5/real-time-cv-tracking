@@ -1,1 +1,2 @@
 Commit on 2025-04-08 00:00:00: chore: Update issue templates
+Commit on 2025-09-11 00:00:00: docs: Elaborate on installation instructions
